@@ -1,6 +1,6 @@
 # todo-ngx-chars
 
-Improvement
+### Improvement
 
 - [x] (https://github.com/swimlane/ngx-charts/pull/1905) X/Y Axis Label
   - [x] Max length
@@ -13,7 +13,7 @@ Improvement
 
 - [ ] Heat Map doesn't support custom color
 
-Customization
+### Customization
 
 - [ ] Chart overlay customization & style
 - [ ] Custom marker
@@ -29,11 +29,11 @@ Customization
       - [x] https://observablehq.com/@d3/kernel-density-estimation （bar-line combo，transparency）
 
 
-Action
+### Action
 
 - [x] (https://github.com/swimlane/ngx-charts/pull/1903) Export as an image
 
-New Feature
+### New Feature
 
 - [ ] Map based on D3.js + Natural Source (Implement a new map chart type with pure D3.js)
 - [x] (https://github.com/swimlane/ngx-charts/pull/1917) Chart combination (share data between line & pie): https://echarts.apache.org/examples/en/editor.html?c=dataset-link
