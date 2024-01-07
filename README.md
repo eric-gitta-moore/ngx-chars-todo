@@ -24,17 +24,17 @@ Customization
     - [x] show bubble (size represents value weight)
 - [ ] Custom series style
   - [ ] Line chart style customizaation
-  - [x] Curve fitting （平滑处理）(Line/Area)
+  - [x] (https://github.com/swimlane/ngx-charts/pull/1907) Curve fitting （平滑处理）(Line/Area)
     - [x] Curve Fitting, smoothing https://swimlane.github.io/ngx-charts/#/ngx-charts/combo-chart
       - [x] https://observablehq.com/@d3/kernel-density-estimation （bar-line combo，transparency）
 
 
 Action
 
-- [x] Export as an image
+- [x] (https://github.com/swimlane/ngx-charts/pull/1903) Export as an image
 
 New Feature
 
 - [ ] Map based on D3.js + Natural Source (Implement a new map chart type with pure D3.js)
-- [x] Chart combination (share data between line & pie): https://echarts.apache.org/examples/en/editor.html?c=dataset-link
-- [x] Calendar(heat map/pie): https://echarts.apache.org/examples/en/editor.html?c=calendar-pie
+- [x] (https://github.com/swimlane/ngx-charts/pull/1917) Chart combination (share data between line & pie): https://echarts.apache.org/examples/en/editor.html?c=dataset-link
+- [x] (https://github.com/swimlane/ngx-charts/pull/1919) Calendar(heat map/pie): https://echarts.apache.org/examples/en/editor.html?c=calendar-pie
