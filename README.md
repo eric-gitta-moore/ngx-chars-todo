@@ -2,12 +2,12 @@
 
 ### Improvement
 
-- [x] (https://github.com/swimlane/ngx-charts/pull/1905) X/Y Axis Label
+- (https://github.com/swimlane/ngx-charts/pull/1905) X/Y Axis Label
   - [x] Max length
   - [x] enable trim
   - [x] enable wrap
   - [x] Tooltip
-- [ ] Animation
+- Animation
   - [ ] animated transitions between common statistical data graphics (http://vis.berkeley.edu/papers/animated_transitions/)
     - [ ] Stacked-to-grouped bars (https://observablehq.com/@d3/stacked-to-grouped-bars)
 
@@ -16,17 +16,17 @@
 ### Customization
 
 - [ ] Chart overlay customization & style
-- [ ] Custom marker
+- Custom marker
   - [ ] Map Chart
-    - [ ] https://observablehq.com/@d3/stacked-to-grouped-bars
-    - [ ] https://observablehq.com/@d3/kernel-density-estimationOr 
-  - [x] other chart types
+    - https://observablehq.com/@d3/stacked-to-grouped-bars
+    - https://observablehq.com/@d3/kernel-density-estimationOr 
+  - other chart types
     - [x] show bubble (size represents value weight)
-- [ ] Custom series style
+- Custom series style
   - [ ] Line chart style customizaation
   - [x] (https://github.com/swimlane/ngx-charts/pull/1907) Curve fitting （平滑处理）(Line/Area)
-    - [x] Curve Fitting, smoothing https://swimlane.github.io/ngx-charts/#/ngx-charts/combo-chart
-      - [x] https://observablehq.com/@d3/kernel-density-estimation （bar-line combo，transparency）
+    - Curve Fitting, smoothing https://swimlane.github.io/ngx-charts/#/ngx-charts/combo-chart
+      - https://observablehq.com/@d3/kernel-density-estimation （bar-line combo，transparency）
 
 
 ### Action
