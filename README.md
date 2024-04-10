@@ -8,8 +8,8 @@
   - [x] enable wrap
   - [x] Tooltip
 - Animation
-  - [ ] animated transitions between common statistical data graphics (http://vis.berkeley.edu/papers/animated_transitions/)
-    - [ ] Stacked-to-grouped bars (https://observablehq.com/@d3/stacked-to-grouped-bars)
+  - [x] animated transitions between common statistical data graphics (http://vis.berkeley.edu/papers/animated_transitions/)
+    - [x] Stacked-to-grouped bars (https://observablehq.com/@d3/stacked-to-grouped-bars)
 
 - [ ] Heat Map doesn't support custom color
 
