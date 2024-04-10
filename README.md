@@ -23,7 +23,7 @@
   - other chart types
     - [x] show bubble (size represents value weight)
 - Custom series style
-  - [ ] Line chart style customizaation
+  - [x] Line chart style customizaation
   - [x] (https://github.com/swimlane/ngx-charts/pull/1907) Curve fitting （平滑处理）(Line/Area)
     - Curve Fitting, smoothing https://swimlane.github.io/ngx-charts/#/ngx-charts/combo-chart
       - https://observablehq.com/@d3/kernel-density-estimation （bar-line combo，transparency）
