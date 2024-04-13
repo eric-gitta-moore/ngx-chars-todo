@@ -11,7 +11,8 @@
   - [x] animated transitions between common statistical data graphics (http://vis.berkeley.edu/papers/animated_transitions/)
     - [x] Stacked-to-grouped bars (https://observablehq.com/@d3/stacked-to-grouped-bars)
 
-- [ ] Heat Map doesn't support custom color
+- [x] Heat Map doesn't support custom color
+  - 这个问题不存在，可以直接修改 props 中的 `scheme`
 
 ### Customization
 
