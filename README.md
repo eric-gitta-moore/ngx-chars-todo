@@ -15,11 +15,12 @@
 
 ### Customization
 
-- [ ] Chart overlay customization & style
+- [x] Chart overlay customization & style
 - Custom marker
-  - [ ] Map Chart
+  - [x] Map Chart
     - https://observablehq.com/@d3/stacked-to-grouped-bars
-    - https://observablehq.com/@d3/kernel-density-estimationOr 
+    - https://observablehq.com/@d3/kernel-density-estimationOr
+    - https://github.com/swimlane/ngx-charts/pull/1895
   - other chart types
     - [x] show bubble (size represents value weight)
 - Custom series style
@@ -35,6 +36,7 @@
 
 ### New Feature
 
-- [ ] Map based on D3.js + Natural Source (Implement a new map chart type with pure D3.js)
+- [x] Map based on D3.js + Natural Source (Implement a new map chart type with pure D3.js)
+  - https://github.com/swimlane/ngx-charts/pull/1895
 - [x] (https://github.com/swimlane/ngx-charts/pull/1917) Chart combination (share data between line & pie): https://echarts.apache.org/examples/en/editor.html?c=dataset-link
 - [x] (https://github.com/swimlane/ngx-charts/pull/1919) Calendar(heat map/pie): https://echarts.apache.org/examples/en/editor.html?c=calendar-pie
