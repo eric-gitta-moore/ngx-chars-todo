@@ -1,5 +1,7 @@
 # todo-ngx-chars
 
+<p align='center'><strong>Official Repo https://github.com/swimlane/ngx-charts</strong></p>
+
 ### Improvement
 
 - (https://github.com/swimlane/ngx-charts/pull/1905) X/Y Axis Label
