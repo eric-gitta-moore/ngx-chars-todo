@@ -11,4 +11,4 @@
       - 暂时不提供预设 TopoJSON，只需要在 playground 里面内置 demo
       - 使用类似 echarts 的 option 范式开发会比较方便一些，不然要 context 挺麻烦
 
-- nested-pie
+- [x] nested-pie
